@@ -30,4 +30,4 @@ I hold a degree in Computer Science from USCS and I am currently specializing in
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/kauanserafim" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Kauan Serafim's LinkedIn"/></a> <a href="mailto:kauanserafimg@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Kauan Serafim's Email"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/kauanserafim" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Kauan Serafim's LinkedIn"/></a></p>
