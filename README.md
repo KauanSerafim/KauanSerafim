@@ -21,8 +21,7 @@ I hold a degree in Computer Science from USCS and I am currently specializing in
 ## 🧠 My Focus Areas
 - Cloud Infrastructure Analyst
 - Backend Development
-- Java Support Analyst
-
+- System Analyst
 
 ## 📊 GitHub Stats
 <p align="center">
