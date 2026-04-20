@@ -1,5 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">Kauan Serafim</h1>
-I hold a degree in Computer Science from USCS and I am currently specializing in AWS Cloud at Escola da Nuvem, with training focused on becoming a Cloud Infrastructure Analyst. I am passionate about technology and an enthusiastic lifelong learner, always seeking to grow and deepen my knowledge in security, infrastructure, and cloud solutions.
+Tenho graduação em Ciência da Computação e atualmente estou me especializando em AWS Cloud pela Escola da Nuvem, com foco na formação como Analista de Infraestrutura Cloud. Possuo experiência prática na implementação de soluções em nuvem, incluindo hospedagem de sites estáticos no Amazon S3, deploy de aplicações em instâncias EC2 e construção de arquiteturas escaláveis com Auto Scaling e Load Balancer.
+
+Sou apaixonado por tecnologia e estou em constante evolução, buscando aprofundar meus conhecimentos em segurança, infraestrutura e soluções cloud, sempre aplicando boas práticas de automação, disponibilidade e eficiência.
 
 ## 🛠️ Languages & Tools
 
@@ -15,10 +17,6 @@ I hold a degree in Computer Science from USCS and I am currently specializing in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 🧠 My Focus Areas
-- Cloud Infrastructure Analyst
-- Software Engineer
 
 ## 📊 GitHub Stats
 <p align="center">
