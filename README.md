@@ -1,7 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">Kauan Serafim</h1>
-Tenho graduação em Ciência da Computação e atualmente estou me especializando em AWS Cloud pela Escola da Nuvem, com foco na formação como Analista de Infraestrutura Cloud. Possuo experiência prática na implementação de soluções em nuvem, incluindo hospedagem de sites estáticos no Amazon S3, deploy de aplicações em instâncias EC2 e construção de arquiteturas escaláveis com Auto Scaling e Load Balancer.
+Sou formado em Ciência da Computação e atualmente me especializo em AWS Cloud pela Escola da Nuvem, com foco em infraestrutura e computação em nuvem. Tenho experiência prática com provisionamento e monitoramento de ambientes AWS, incluindo deploy de aplicações em EC2, hospedagem de sites estáticos no Amazon S3, arquiteturas escaláveis com Auto Scaling e Load Balancer, além de soluções serverless utilizando Lambda, SNS e CloudWatch.
 
-Sou apaixonado por tecnologia e estou em constante evolução, buscando aprofundar meus conhecimentos em segurança, infraestrutura e soluções cloud, sempre aplicando boas práticas de automação, disponibilidade e eficiência.
+Possuo conhecimentos básicos em Linux, automação com Bash/Python e configuração de VPCs, IAM e Security Groups. Estou em constante evolução na área de cloud computing, buscando aprofundar meus conhecimentos em infraestrutura, segurança e boas práticas de disponibilidade e eficiência em ambientes cloud.
 
 ## 🛠️ Languages & Tools
 
