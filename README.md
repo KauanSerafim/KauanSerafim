@@ -1,19 +1,15 @@
 <h1><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">Kauan Serafim</h1>
-Sou formado em Ciência da Computação e atualmente me especializo em AWS Cloud pela Escola da Nuvem, com foco em infraestrutura e computação em nuvem. Tenho experiência prática com provisionamento e monitoramento de ambientes AWS, incluindo deploy de aplicações em EC2, hospedagem de sites estáticos no Amazon S3, arquiteturas escaláveis com Auto Scaling e Load Balancer, além de soluções serverless utilizando Lambda, SNS e CloudWatch.
+Sou formado em Ciência da Computação e atualmente me especializo em AWS Cloud, com foco em infraestrutura e DevOps. Possuo a certificação AWS Certified Cloud Practitioner e experiência prática com provisionamento e monitoramento de ambientes AWS, incluindo deploy de aplicações em EC2, hospedagem de sites estáticos no Amazon S3, arquiteturas escaláveis com Auto Scaling e Load Balancer, além de soluções serverless utilizando Lambda, SNS e CloudWatch.
 
 
-Possuo conhecimentos básicos em Linux, automação com Bash/Python e configuração de VPCs, IAM e Security Groups. Estou em constante evolução na área de cloud computing, buscando aprofundar meus conhecimentos em infraestrutura, segurança e boas práticas de disponibilidade e eficiência em ambientes cloud.
+Possuo conhecimentos em Sistema Operacional Linux, automação com Bash/Python e configuração de VPCs, IAM e Security Groups. Estou em constante evolução na área de cloud computing, buscando aprofundar meus conhecimentos em infraestrutura, segurança e boas práticas de disponibilidade e eficiência em ambientes cloud.
 
 ## 🛠️ Languages & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
