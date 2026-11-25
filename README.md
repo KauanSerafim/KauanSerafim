@@ -9,6 +9,3 @@ Desenvolvo APIs REST em Java e Spring Boot, aplicando Clean Architecture, Spring
 - **Qualidade:** Clean Architecture, JUnit 5, Mockito, Swagger/OpenAPI
 - **Cloud e DevOps:** AWS, Docker, Docker Compose, GitHub Actions, Linux
 - **Bancos de dados:** PostgreSQL, MySQL
-
-## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/kauanserafim" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Kauan Serafim's LinkedIn"/></a></p>
