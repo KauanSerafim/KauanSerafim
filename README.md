@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">Kauan Serafim</h1>
+<h1>Kauan Serafim</h1>
 Bacharel em Ciência da Computação, certificado AWS Certified Solutions Architect Associate e AWS Certified Cloud Practitioner.
 
 Desenvolvo APIs REST em Java e Spring Boot, aplicando Clean Architecture, Spring Data JPA, testes automatizados com JUnit 5 e Mockito, documentação com Swagger/OpenAPI e containerização com Docker.
